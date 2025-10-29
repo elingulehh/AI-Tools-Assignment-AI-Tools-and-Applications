@@ -1,10 +1,17 @@
 assignment Part 1: Theoretical Understanding (40%) 
+
 Q1. TensorFlow vs. PyTorch
+
 Programming style
+
 TensorFlow: Graph-based execution (eager mode added later). Good for large-scale production with TensorFlow Serving & TensorFlow Lite.
+
 PyTorch: Dynamic computation graph (define-by-run). Feels more “pythonic,” easier for research, debugging, and experimentation.
+
 Ecosystem
+
 TensorFlow: Strong deployment ecosystem (TensorFlow Serving, TensorFlow.js, TF Lite, TFX pipelines).
+
 PyTorch: Tight PyData integration; TorchServe + ONNX export for deployment.
 
 Choice
